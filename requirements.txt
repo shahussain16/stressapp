@@ -1,7 +1,7 @@
 streamlit
-opencv-python
-deepface
-numpy
+opencv-python-headless
+deepface==0.0.92
+tensorflow==2.11.0
 pandas
-tensorflow
-Pillow
+numpy
+
